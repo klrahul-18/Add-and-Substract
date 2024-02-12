@@ -1,0 +1,21 @@
+section {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  align-items: center;
+}
+body {
+  background: antiquewhite;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+button img {
+  max-width: 40px;
+}
